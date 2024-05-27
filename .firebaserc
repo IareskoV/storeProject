@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "testing-state": {
+      "hosting": {
+        "storeProject": [
+          "testing-state"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "testing-state"
+  }
+}
